@@ -1,0 +1,5 @@
+pysrt
+pydub
+scipy
+numpy
+pyarabic
